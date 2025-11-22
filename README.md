@@ -35,7 +35,7 @@ Modern, responsive portfolio showcasing web development projects with comprehens
 1. **Clone the repository**:
 ```bash
    git clone https://github.com/ibrahimAlobaid0/assignment-3.git
-   cd assignment-2
+   cd assignment-3
 ```
 
 2. **Open the website**:
@@ -47,6 +47,8 @@ Modern, responsive portfolio showcasing web development projects with comprehens
    - Submit contact form to see validation
    - Try invalid inputs to see error handling
    - Scroll to see fade-in animations
+   - show and hide sections
+   - filtering
 
 ##  Customization
 
